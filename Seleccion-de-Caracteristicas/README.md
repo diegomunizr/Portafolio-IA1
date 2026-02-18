@@ -13,6 +13,7 @@ Se aplican técnicas de análisis y selección de características para optimiza
 - Validación de resultados
 
 ## Archivos incluidos
-- Notebook en formato .ipynb
-- Reporte en formato .html
-- Base de datos utilizada
+
+- [Notebook (.ipynb)](./A1.3_621784.ipynb)
+- [Reporte (.html)](./A1.3_621784.html)
+- [Base de datos](./dataset.csv)
