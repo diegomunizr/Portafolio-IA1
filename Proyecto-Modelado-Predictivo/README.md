@@ -14,6 +14,7 @@ Se implementa un flujo completo de análisis que incluye limpieza de datos, entr
 - Interpretación de resultados
 
 ## Archivos incluidos
-- Notebook en formato .ipynb
-- Reporte en formato .html
-- Base de datos utilizada
+
+- [Notebook (.ipynb)](./P_P1_621784.ipynb)
+- [Reporte (.html)](./P_P1_621784.html)
+- [Base de datos](./dataset.csv)
