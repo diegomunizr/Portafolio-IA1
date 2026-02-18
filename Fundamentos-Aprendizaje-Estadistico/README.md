@@ -12,6 +12,7 @@ Se realiza un análisis exploratorio de datos, identificando patrones relevantes
 - Interpretación estadística
 
 ## Archivos incluidos
-- Notebook en formato .ipynb
-- Reporte en formato .html
-- Base de datos utilizada
+
+- [Notebook (.ipynb)](./A1.1_621784.ipynb)
+- [Reporte (.html)](./A1.1_621784.html)
+- [Base de datos](./dataset.csv)
