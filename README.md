@@ -1,28 +1,24 @@
 # Portafolio de Proyectos en Inteligencia Artificial
 
-Este repositorio contiene una colección de proyectos desarrollados en el área de Aprendizaje Automático y Modelado Predictivo.
+Autor: Diego Emilio Muñiz Ramírez
 
-El objetivo de este portafolio es demostrar competencias en:
-
-- Aprendizaje estadístico
-- Modelado mediante regresión
-- Selección de características
-- Preprocesamiento de datos
-- Evaluación de modelos
-- Análisis e interpretación de resultados
+Este repositorio contiene proyectos y actividades desarrolladas en el área de aprendizaje automático y modelado predictivo.
 
 ---
 
-## 📂 Índice de Proyectos
+## 📌 Proyectos Principales
 
-1. Fundamentos de Aprendizaje Estadístico  
-   [Ver proyecto](./Fundamentos-Aprendizaje-Estadistico)
+- [Fundamentos de Aprendizaje Estadístico](./Fundamentos-Aprendizaje-Estadistico/)
+- [Modelado con Regresión Lineal](./Modelado-Regresion-Lineal/)
+- [Selección de Características](./Seleccion-de-Caracteristicas/)
+- [Proyecto de Modelado Predictivo](./Proyecto-Modelado-Predictivo/)
 
-2. Modelado con Regresión Lineal  
-   [Ver proyecto](./Modelado-Regresion-Lineal)
+---
 
-3. Selección de Características y Resolución de Problemas  
-   [Ver proyecto](./Seleccion-de-Caracteristicas)
+## 📘 Actividades Complementarias
 
-4. Proyecto de Modelado Predictivo  
-   [Ver proyecto](./Proyecto-Modelado-Predictivo)
+- [Examen 1](./Examen1/)
+- [Repaso Parcial 1](./R1.%20Repaso%20P1/)
+- [Semana 1 - Curso 1](./M1W1%20Semana%201%20de%20curso%201/)
+- [Semana 2 - Curso 1](./M1W2%20Semana%202%20de%20curso%201/)
+- [Certificado Curso 1](./M1WX%20Certificado%20de%20curso%201/)
