@@ -14,6 +14,7 @@ Se implementa un modelo supervisado de regresión lineal, analizando el comporta
 - Interpretación de resultados
 
 ## Archivos incluidos
-- Notebook en formato .ipynb
-- Reporte en formato .html
-- Base de datos utilizada
+
+- [Notebook (.ipynb)](./A1.2_621784.ipynb)
+- [Reporte (.html)](./A1.2_621784.html)
+- [Base de datos](./dataset.csv)
