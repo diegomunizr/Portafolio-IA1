@@ -23,7 +23,3 @@ El objetivo principal es demostrar comprensión conceptual y capacidad de implem
 
 - [Notebook (.ipynb)](./P1_1_621784.ipynb)
 - [Reporte (.html)](./P1_1_621784.html)
-
-## Evidencia Visual
-
-![Evidencia](./1.png)
