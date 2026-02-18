@@ -5,4 +5,4 @@ Actividad práctica correspondiente al módulo inicial, enfocada en el análisis
 
 ## Evidencia
 
-![Evidencia](./1.png)
+![Evidencia](./evidencia.png)
