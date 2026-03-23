@@ -1,4 +1,4 @@
-# Actividad Complementaria – Semana 2
+# Actividad Complementaria – Semana 1
 
 ## Descripción
 Actividad práctica enfocada en el desarrollo de habilidades técnicas relacionadas con el análisis y comprensión de conceptos fundamentales.
