@@ -14,7 +14,7 @@
 
 - 📄 [Reporte en PDF](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada.ipynb%20-%20Colab.pdf)
 
-- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada/A2_1_Regresio%CC%81n_logi%CC%81stica_y_validacio%CC%81n_cruzada.ipynb)
+- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.ipynb?raw=true)
 
 ---
 
