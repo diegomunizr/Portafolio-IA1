@@ -77,8 +77,6 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 | [evidencia4.png](evidencia4.png) | Intuición de las Redes Neuronales y Modelo de Red Neuronal - Completado |
 | [evidencia5.png](evidencia5.png) | Vista general Semana 1 - Redes Neuronales Completado |
 
-![evidencia5.png](evidencia5.png)
-
 ---
 
 ## 🔙 Navegación
