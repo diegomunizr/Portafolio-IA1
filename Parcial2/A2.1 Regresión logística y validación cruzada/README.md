@@ -12,8 +12,9 @@
 
 ## 📂 Archivos del proyecto
 
-- 📄 [Reporte en PDF](./A2.1%20Regresión%20logística%20y%20validación%20cruzada.ipynb%20-%20Colab.pdf)
-- 📓 [Descargar Notebook](./A2_1_Regresión_logística_y_validación_cruzada.ipynb?raw=true)
+- 📄 [Reporte en PDF](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada.ipynb%20-%20Colab.pdf)
+
+- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresio%CC%81n%20logi%CC%81stica%20y%20validacio%CC%81n%20cruzada/A2_1_Regresio%CC%81n_logi%CC%81stica_y_validacio%CC%81n_cruzada.ipynb)
 
 ---
 
