@@ -16,7 +16,7 @@
 
 - 📄 [Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/A2.3%20621784.pdf)
 - 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/A2.3%20621784.ipynb?raw=true)
-- 🗃️ [Descargar Dataset](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/wine_dataset.csv?raw=true)
+- 🗃️ [Descargar Dataset](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/wine_dataset.csv)
 
 ---
 
