@@ -14,7 +14,7 @@ Este repositorio contiene las actividades, proyectos y certificados desarrollado
 | Carpeta | Descripción |
 |---------|-------------|
 | [A2.1 Regresión logística y validación cruzada](./A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/) | Clasificación binaria de propiedades inmobiliarias con regresión logística y Stratified K-Fold (k=10). AUC ~0.81 |
-| [A2.2 LDA y árboles de decisión](./A2.2%20LDA%20y%20%C3%81rboles%20de%20Decisi%C3%B3n/) | Comparación de LDA vs Árbol de Decisión sobre Wine Dataset. LDA: 98.15% accuracy, Árbol podado: 94.44% |
+| [A2.2 LDA y árboles de decisión](./A2.2%20LDA%20y%20%C3%A1rboles%20de%20decisi%C3%B3n/) | Comparación de LDA vs Árbol de Decisión sobre Wine Dataset. LDA: 98.15% accuracy, Árbol podado: 94.44% |
 | [A2.3 Modelos de ensamble, SVM y redes neuronales](./A2.3%20Modelos%20de%20Ensamble%2C%20SVM%20y%20Redes%20Neuronales/) | Comparación de Random Forest, Gradient Boosting, SVM y MLP sobre Wine Dataset. RF: 100% accuracy |
 
 ---
