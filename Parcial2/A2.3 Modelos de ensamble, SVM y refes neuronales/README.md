@@ -8,13 +8,25 @@
 | **Matrícula** | 621784 |
 | **Curso** | SC3314 – Inteligencia Artificial |
 | **Profesor** | Dr. Antonio Torteya |
-| **Archivos** | `A2_3_621784.ipynb`, `wine_dataset.csv` |
+| **Fecha** | 24/02/2026 |
 
-## Descripción
+---
+
+## 📂 Archivos del proyecto
+
+- 📄 [Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/A2.3%20621784.pdf)
+- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/A2.3%20621784.ipynb?raw=true)
+- 🗃️ [Descargar Dataset](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/wine_dataset.csv?raw=true)
+
+---
+
+## 📌 Descripción
 
 Entrenamiento y comparación de cuatro modelos avanzados de clasificación multiclase sobre el **Wine Dataset**: Random Forest, Gradient Boosting, SVM y Red Neuronal (MLP). Se analiza el desempeño, complejidad e interpretabilidad de cada enfoque.
 
-## Dataset
+---
+
+## 📊 Dataset
 
 Archivo: `wine_dataset.csv`
 
@@ -34,9 +46,12 @@ Archivo: `wine_dataset.csv`
 | class_1 | 71 | 57 | 14 |
 | class_2 | 48 | 38 | 10 |
 
-## Modelos y configuración
+---
+
+## 🤖 Modelos y configuración
 
 ### 1. Random Forest
+
 | Hiperparámetro | Valor | Justificación |
 |----------------|-------|---------------|
 | `n_estimators` | 100 | Buen balance entre varianza y costo computacional |
@@ -44,6 +59,7 @@ Archivo: `wine_dataset.csv`
 | `random_state` | 42 | Reproducibilidad |
 
 ### 2. Gradient Boosting
+
 | Hiperparámetro | Valor | Justificación |
 |----------------|-------|---------------|
 | `n_estimators` | 100 | 100 etapas de boosting |
@@ -51,6 +67,7 @@ Archivo: `wine_dataset.csv`
 | `max_depth` | 3 | Árboles débiles para evitar sobreajuste individual |
 
 ### 3. SVM (kernel RBF)
+
 | Hiperparámetro | Valor | Justificación |
 |----------------|-------|---------------|
 | `C` | 1.0 | Penalización estándar; equilibra margen y errores |
@@ -60,13 +77,16 @@ Archivo: `wine_dataset.csv`
 > SVM y Red Neuronal requieren escalado previo con `StandardScaler`.
 
 ### 4. Red Neuronal (MLP)
+
 | Hiperparámetro | Valor | Justificación |
 |----------------|-------|---------------|
 | `hidden_layer_sizes` | (64, 32) | Arquitectura piramidal |
 | `activation` | `'relu'` | Evita el problema del gradiente desvaneciente |
 | `max_iter` | 500 | Suficientes iteraciones para convergencia |
 
-## Resultados
+---
+
+## 📈 Resultados
 
 ### Comparativa de métricas (conjunto de prueba, n=36)
 
@@ -78,6 +98,7 @@ Archivo: `wine_dataset.csv`
 | Gradient Boosting | 0.9444 | 0.9505 | 0.9429 | 0.9453 |
 
 ### Errores por modelo
+
 - **Random Forest**: 0 errores — clasificación perfecta.
 - **SVM y Red Neuronal**: 1 error cada uno — una muestra de class_2 clasificada como class_1.
 - **Gradient Boosting**: 2 errores — confusiones entre class_1 y class_2.
@@ -88,14 +109,16 @@ Archivo: `wine_dataset.csv`
 
 Las variables más discriminativas según importancia Gini son `color_intensity`, `flavanoids` y `proline`. Las variables `ash` y `alcalinity_of_ash` contribuyen mínimamente.
 
-## Análisis crítico
+---
+
+## 🔍 Análisis crítico
 
 **¿El aumento de complejidad se tradujo en mejoras claras?**
 No. En este dataset pequeño (178 muestras), Random Forest alcanzó clasificación perfecta sin necesidad de modelos más complejos. Esto es consistente con la teoría: en datasets pequeños y bien estructurados, modelos más simples suelen ser suficientes y más estables.
 
 **Riesgo de sobreajuste:** La perfección de Random Forest en prueba (1.0000) sobre 178 muestras merece cautela. Una evaluación con k-fold cross-validation (k=5 o k=10) ofrecería una estimación más robusta.
 
-**Interpretabilidad relativa:**
+### Interpretabilidad relativa
 
 | Modelo | Interpretabilidad |
 |--------|-------------------|
@@ -104,18 +127,30 @@ No. En este dataset pequeño (178 muestras), Random Forest alcanzó clasificaci�
 | SVM | Baja — decisión basada en vectores de soporte en espacio kernel RBF |
 | Red Neuronal | La más baja — los pesos no tienen interpretación directa |
 
-**¿Cuándo preferir cada modelo?**
+### ¿Cuándo preferir cada modelo?
+
 - **Random Forest**: Punto de partida ideal. Robusto, rápido e interpretable.
 - **Gradient Boosting**: Preferible con datasets grandes, ruidosos o con relaciones complejas.
 - **SVM**: Útil en espacios de alta dimensión con clases separables.
 - **Red Neuronal**: Justificada con alto volumen de datos y relaciones altamente no lineales.
 
-## Conclusión
+---
+
+## 💡 Conclusión
 
 Para el Wine Dataset, el **Random Forest representa el mejor balance** entre desempeño, interpretabilidad y simplicidad. La elección del modelo siempre depende del contexto: volumen de datos, necesidad de interpretabilidad, recursos computacionales y tolerancia al riesgo de sobreajuste.
 
-## Herramientas utilizadas
+---
+
+## 🛠️ Herramientas utilizadas
 
 - Python 3
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn` (RandomForestClassifier, GradientBoostingClassifier, SVC, MLPClassifier, StandardScaler)
+
+---
+
+## 🔙 Navegación
+
+- [⬅️ Volver a Parcial 2](../)
+- [🏠 Volver al repositorio principal](../../)
