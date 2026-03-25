@@ -4,6 +4,14 @@ Autor: Diego Emilio Muñiz Ramírez
 Matrícula: 621784  
 Materia: Inteligencia Artificial 1
 
+---
+
+## 🏠 Inicio
+➡️ [Ver página principal (GitHub Pages)](https://diegomunizr.github.io/Portafolio-IA1/)
+
+---
+
+## 📌 Descripción
 Este repositorio contiene proyectos y actividades desarrolladas en el área de aprendizaje automático y modelado predictivo.
 
 ---
@@ -28,3 +36,8 @@ Este repositorio contiene proyectos y actividades desarrolladas en el área de a
 
 ### Repasos
 - [Repaso Parcial 1](./Repasos/Repaso1/)
+
+---
+
+## 🔙 Navegación
+- [⬆️ Volver al inicio del repositorio](./)
