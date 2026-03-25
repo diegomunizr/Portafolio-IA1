@@ -12,7 +12,7 @@
 
 ## 📂 Archivos del proyecto
 
-- 📄 [Reporte en PDF](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.pdf)
+- 📄 [Reporte en PDF](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.pdf)
 
 - 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.ipynb?raw=true)
 
