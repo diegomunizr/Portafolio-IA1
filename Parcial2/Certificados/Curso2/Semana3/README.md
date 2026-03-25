@@ -10,11 +10,15 @@
 | **Fecha de inicio** | 29 de enero de 2026 |
 | **Estado** | ✅ Completado |
 
-## Descripción
+---
+
+## 📌 Descripción
 
 Esta semana se enfocó en aprender las **mejores prácticas para entrenar y evaluar algoritmos de aprendizaje automático**, abarcando el ciclo de vida del ML, el ajuste de modelos, el diagnóstico de sesgo y varianza, y consejos para mejorar datos de entrenamiento.
 
-## Temas Cubiertos
+---
+
+## 📚 Temas Cubiertos
 
 ### 💡 Consejos para Aplicar el Aprendizaje Automático
 - Decidir qué probar a continuación (Video • 3 min)
@@ -22,8 +26,7 @@ Esta semana se enfocó en aprender las **mejores prácticas para entrenar y eval
 - Selección de modelos y conjuntos de entrenamiento/validación cruzada/pruebas (Video • 13 min)
 - Laboratorio opcional: Evaluación y selección de modelos (Laboratorio • 30 min)
 
-### 📝 Cuestionario de Práctica: Consejos para Aplicar el Aprendizaje Automático
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### 📊 Sesgo y Varianza
 - Diagnóstico del sesgo y la varianza (Video • 11 min)
@@ -34,8 +37,7 @@ Esta semana se enfocó en aprender las **mejores prácticas para entrenar y eval
 - Sesgo/varianza y redes neuronales (Video • 10 min)
 - Laboratorio opcional: Diagnóstico del sesgo y la varianza (Laboratorio • 30 min)
 
-### 📝 Cuestionario de Práctica: Sesgo y Varianza
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### 🔄 Proceso de Desarrollo del Aprendizaje Automático
 - Bucle iterativo de desarrollo del ML (Video • 7 min)
@@ -45,8 +47,7 @@ Esta semana se enfocó en aprender las **mejores prácticas para entrenar y eval
 - Ciclo completo de un proyecto de aprendizaje automático (Video • 8 min)
 - Imparcialidad, parcialidad y ética (Video • 9 min)
 
-### 📝 Practique el Cuestionario: Proceso de Desarrollo del Aprendizaje Automático
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### ⚖️ Conjuntos de Datos Sesgados (Opcional)
 - Métricas de error para conjuntos de datos sesgados (Video • 11 min)
@@ -54,9 +55,12 @@ Esta semana se enfocó en aprender las **mejores prácticas para entrenar y eval
 
 ### 🧪 Laboratorio de Prácticas: Consejos para Aplicar el Aprendizaje Automático
 - Consejos para aplicar el aprendizaje automático (Actividad • 3 h)
-- Calificación: **100%** ✅
 
-## Evidencias
+📝 **Calificación: 100%** ✅
+
+---
+
+## 🖼️ Evidencias
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -65,3 +69,10 @@ Esta semana se enfocó en aprender las **mejores prácticas para entrenar y eval
 | [evidencia3.png](evidencia3.png) | Sesgo y varianza y Proceso de desarrollo del ML - Completado |
 | [evidencia4.png](evidencia4.png) | Consejos para aplicar el aprendizaje y Sesgo y varianza - Completado |
 | [evidencia5.png](evidencia5.png) | Vista general Semana 3 - Consejos para aplicar el aprendizaje automático Completado |
+
+---
+
+## 🔙 Navegación
+
+- [⬅️ Volver a Curso 2](../)
+- [🏠 Volver al repositorio principal](../../../../)
