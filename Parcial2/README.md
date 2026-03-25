@@ -32,3 +32,9 @@ Este repositorio contiene las actividades, proyectos y certificados desarrollado
 | Carpeta | Descripción |
 |---------|-------------|
 | [Certificados/Curso2](./Certificados/Curso2/) | Evidencias de las semanas completadas del curso en Coursera – Algoritmos Avanzados de Aprendizaje |
+
+---
+
+## 🔙 Navegación
+
+- [⬅️ Volver al repositorio principal](../)
