@@ -1,13 +1,19 @@
 # 📘 Curso 1 - Evidencias
 
-## 📅 Semanas
-
-- [Semana 1](./Semana1/)
-- [Semana 2](./Semana2/)
-- [Semana 3](./Semana3/)
+## 📌 Descripción
+En este apartado se presentan las evidencias correspondientes al **Curso 1**, organizadas por semana.
 
 ---
 
-## 🖼️ Evidencia general
+## 📅 Semanas
 
-![Evidencia](./evidencia.png)
+### 🔹 Actividades semanales
+
+- 📂 [Semana 1](./Semana1/)
+- 📂 [Semana 2](./Semana2/)
+- 📂 [Semana 3](./Semana3/)
+
+---
+
+## 🔙 Navegación
+- [⬅️ Volver a Parcial 1](../../)
