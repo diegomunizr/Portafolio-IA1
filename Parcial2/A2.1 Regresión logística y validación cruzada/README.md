@@ -13,7 +13,7 @@
 ## 📂 Archivos del proyecto
 
 - 📄 [Reporte en PDF](./A2.1%20Regresión%20logística%20y%20validación%20cruzada.ipynb%20-%20Colab.pdf)
-- 📓 [Notebook (Google Colab)](./A2_1_Regresión_logística_y_validación_cruzada.ipynb)
+- 📓 [Descargar Notebook](./A2_1_Regresión_logística_y_validación_cruzada.ipynb?raw=true)
 
 ---
 
