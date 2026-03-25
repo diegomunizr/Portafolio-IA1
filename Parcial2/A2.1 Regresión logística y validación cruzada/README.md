@@ -7,8 +7,8 @@
 | **Fecha** | 24/02/2026 |
 ---
 ## 📂 Archivos del proyecto
-- 📄 [Ver Reporte en PDF](https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.pdf)
-- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/raw/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.ipynb)
+- 📄 [Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.pdf)
+- 📓 [Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/A2_1_logistic_regression.ipynb?raw=true)
 ---
 ## 📌 Descripción
 Implementación de un modelo de **regresión logística** para clasificación binaria de propiedades inmobiliarias (departamento vs. casa), aplicando **validación cruzada estratificada** y análisis de métricas de rendimiento.
