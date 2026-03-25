@@ -10,11 +10,15 @@
 | **Fecha de inicio** | 29 de enero de 2026 |
 | **Estado** | ✅ Completado |
 
-## Descripción
+---
+
+## 📌 Descripción
 
 Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas para tareas de clasificación. Se utilizó el marco **TensorFlow** para construir una red neuronal con pocas líneas de código.
 
-## Temas Cubiertos
+---
+
+## 📚 Temas Cubiertos
 
 ### 🧠 Intuición de las Redes Neuronales
 - ¡Bienvenido! (Video • 2 min)
@@ -22,8 +26,7 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 - Predicción de la demanda (Video • 16 min)
 - Ejemplo: Reconocer imágenes (Video • 6 min)
 
-### 📝 Cuestionario de Práctica: La Intuición de las Redes Neuronales
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### 🏗️ Modelo de Red Neuronal
 - Capa de la red neuronal (Video • 9 min)
@@ -31,8 +34,7 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 - Inferencia: hacer predicciones (propagación hacia delante) (Video • 5 min)
 - Neuronas y capas (Laboratorio • 10 min)
 
-### 📝 Cuestionario de Práctica: Modelo de Red Neuronal
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### ⚡ Implementación de TensorFlow
 - Inferencia en código (Video • 6 min)
@@ -40,16 +42,14 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 - Construir una red neuronal (Video • 8 min)
 - Tostado de café en TensorFlow (Laboratorio • 10 min)
 
-### 📝 Cuestionario de Práctica: Implementación de TensorFlow
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### 🔬 Implementación de Redes Neuronales en Python
 - Puntal delantero en una sola capa (Video • 5 min)
 - Implementación general de la propagación hacia delante (Video • 7 min)
 - TostadoDeCaféNumPy (Laboratorio • 1 h)
 
-### 📝 Cuestionario de Práctica: Implementación de Redes Neuronales en Python
-- Calificación: **100%** ✅
+📝 **Cuestionario de Práctica:** Calificación: **100%** ✅
 
 ### 🤖 Especulaciones sobre la Inteligencia General Artificial (AGI)
 - ¿Existe un camino hacia el AGI? (Video • 10 min)
@@ -62,9 +62,12 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 
 ### 🧪 Laboratorio de Prácticas: Redes Neuronales
 - Laboratorio de Prácticas: Redes neuronales para la clasificación binaria (Actividad • 3 h)
-- Calificación: **100%** ✅
 
-## Evidencias
+📝 **Calificación: 100%** ✅
+
+---
+
+## 🖼️ Evidencias
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -73,3 +76,12 @@ Esta semana se enfocó en el estudio de **redes neuronales** y cómo utilizarlas
 | [evidencia3.png](evidencia3.png) | Modelo de Red Neuronal e Implementación de TensorFlow - Completado |
 | [evidencia4.png](evidencia4.png) | Intuición de las Redes Neuronales y Modelo de Red Neuronal - Completado |
 | [evidencia5.png](evidencia5.png) | Vista general Semana 1 - Redes Neuronales Completado |
+
+![evidencia5.png](evidencia5.png)
+
+---
+
+## 🔙 Navegación
+
+- [⬅️ Volver a Curso 2](../)
+- [🏠 Volver al repositorio principal](../../../../)
