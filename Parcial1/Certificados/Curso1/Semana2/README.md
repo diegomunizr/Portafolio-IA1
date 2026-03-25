@@ -13,3 +13,9 @@ Se presentan las evidencias correspondientes a la finalización y certificación
 
 ### Evidencia adicional 3
 ![Evidencia 3](./evidencia3.png)
+
+---
+
+## 🔙 Navegación
+- [⬅️ Volver a Curso 1](../)
+- [🏠 Volver a Parcial 1](../../)
