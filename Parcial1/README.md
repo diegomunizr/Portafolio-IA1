@@ -1,6 +1,8 @@
 # Portafolio de Proyectos en Inteligencia Artificial
 
-Autor: Diego Emilio Muñiz Ramírez
+Autor: Diego Emilio Muñiz Ramírez  
+Matrícula: 621784  
+Materia: Inteligencia Artificial 1
 
 Este repositorio contiene proyectos y actividades desarrolladas en el área de aprendizaje automático y modelado predictivo.
 
@@ -8,17 +10,21 @@ Este repositorio contiene proyectos y actividades desarrolladas en el área de a
 
 ## 📌 Proyectos Principales
 
-- [Fundamentos de Aprendizaje Estadístico](./Fundamentos-Aprendizaje-Estadistico/)
+- [Fundamentos](./Fundamentos/)
 - [Modelado con Regresión Lineal](./Modelado-Regresion-Lineal/)
 - [Selección de Características](./Seleccion-de-Caracteristicas/)
 - [Proyecto de Modelado Predictivo](./Proyecto-Modelado-Predictivo/)
+- [Proyecto 1](./Proyecto1/)
 
 ---
 
 ## 📘 Actividades Complementarias
 
-- [Examen 1](./Examen1/)
-- [Repaso Parcial 1](./R1.%20Repaso%20P1/)
-- [Semana 1 - Curso 1](./M1W1%20Semana%201%20de%20curso%201/)
-- [Semana 2 - Curso 1](./M1W2%20Semana%202%20de%20curso%201/)
-- [Certificado Curso 1](./M1WX%20Certificado%20de%20curso%201/)
+### Certificados
+- [Curso 1](./Certificados/Curso1/)
+- [Semana 1](./Certificados/Curso1/Semana1/)
+- [Semana 2](./Certificados/Curso1/Semana2/)
+- [Semana 3](./Certificados/Curso1/Semana3/)
+
+### Repasos
+- [Repaso Parcial 1](./Repasos/Repaso1/)
