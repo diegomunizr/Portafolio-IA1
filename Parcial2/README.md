@@ -1,5 +1,4 @@
 # Parcial 2 – Inteligencia Artificial
-
 **Autor:** Diego Emilio Muñiz Ramírez  
 **Matrícula:** 621784  
 **Curso:** SC3314 – Inteligencia Artificial  
@@ -16,6 +15,14 @@ Este repositorio contiene las actividades, proyectos y certificados desarrollado
 | [A2.1 Regresión logística y validación cruzada](./A2.1%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada/) | Clasificación binaria de propiedades inmobiliarias con regresión logística y Stratified K-Fold (k=10). AUC ~0.81 |
 | [A2.2 LDA y árboles de decisión](./A2.2%20LDA%20y%20%C3%A1rboles%20de%20decisi%C3%B3n/) | Comparación de LDA vs Árbol de Decisión sobre Wine Dataset. LDA: 98.15% accuracy, Árbol podado: 94.44% |
 | [A2.3 Modelos de ensamble, SVM y redes neuronales](./A2.3%20Modelos%20de%20ensamble%2C%20SVM%20y%20refes%20neuronales/) | Comparación de Random Forest, Gradient Boosting, SVM y MLP sobre Wine Dataset. RF: 100% accuracy |
+
+---
+
+## 🧪 Proyecto Final
+
+| Carpeta | Descripción |
+|---------|-------------|
+| [P P2. Clasificación de Vinos](./P%20P2.%20Clasificaci%C3%B3n/) | Clasificación multiclase de variedades de vino mediante análisis químico. 6 modelos comparados; **Random Forest: 100% accuracy** en conjunto de prueba. [📄 Ver proyecto →](./P%20P2.%20Clasificaci%C3%B3n/README.md) |
 
 ---
 
