@@ -15,15 +15,13 @@ El problema se enmarca como una tarea de **clasificación supervisada**, dado qu
 
 ---
 
-## Estructura del Repositorio
+## Archivos del Proyecto
 
-```
-Parcial2/P P2. Clasificación/
-│
-├── P_P2_621784.ipynb       # Notebook principal con todo el análisis
-├── wine_dataset.csv        # Dataset de entrada (UCI Wine Dataset)
-└── README.md               # Este archivo
-```
+| Archivo | Descripción | Descarga |
+|---------|-------------|----------|
+| `P_P2_621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
+| `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [⬇ Descargar Dataset](./wine_dataset.csv) |
+| `P_P2_621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
 
 ---
 
