@@ -103,4 +103,4 @@ Donde el primer término es la log-verosimilitud negativa (equivalente al RSS en
 
 ## 🔙 Navegación
 
-- [⬅️ Volver al README del Parcial 2](../README.md)
+- [⬅️ Volver al Parcial 2](../README.md)
