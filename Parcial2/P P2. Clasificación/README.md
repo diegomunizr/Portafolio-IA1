@@ -19,9 +19,9 @@ El problema se enmarca como una tarea de **clasificación supervisada**, dado qu
 
 | Archivo | Descripción | Descarga |
 |---------|-------------|----------|
-| `P_P2_621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
+| `P P2 621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
 | `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [⬇ Descargar Dataset](./wine_dataset.csv) |
-| `P_P2_621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
+| `P P2 621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
 
 ---
 
