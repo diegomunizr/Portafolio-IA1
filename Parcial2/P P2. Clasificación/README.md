@@ -19,9 +19,9 @@ El problema se enmarca como una tarea de **clasificación supervisada**, dado qu
 
 | Archivo | Descripción | Descarga |
 |---------|-------------|----------|
-| `P P2 621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
+| `P_P2_621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
 | `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [⬇ Descargar Dataset](./wine_dataset.csv) |
-| `P P2 621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
+| `P_P2_621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
 
 ---
 
@@ -167,3 +167,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Referencias
 
 Forina, M. et al. (1991). *PARVUS: An Extendable Package for Data Exploration, Classification and Correlation*. Institute of Pharmaceutical and Food Analysis and Technologies. UCI Machine Learning Repository – Wine Dataset.
+
+---
+
+## 🔙 Navegación
+
+- [⬅️ Volver al README del Parcial 2](../README.md)
