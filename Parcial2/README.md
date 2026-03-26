@@ -22,7 +22,7 @@ Este repositorio contiene las actividades, proyectos y certificados desarrollado
 
 | Carpeta | Descripción |
 |---------|-------------|
-| [P P2. Clasificación de Vinos](./P%20P2.%20Clasificaci%C3%B3n/) | Clasificación multiclase de variedades de vino mediante análisis químico. 6 modelos comparados; **Random Forest: 100% accuracy** en conjunto de prueba. [📄 Ver proyecto →](./P%20P2.%20Clasificaci%C3%B3n/README.md) |
+| [P P2. Clasificación de Vinos](./P%20P2.%20Clasificaci%C3%B3n/) | Clasificación multiclase de variedades de vino mediante análisis químico. 6 modelos comparados; **Random Forest: 100% accuracy** en conjunto de prueba. |
 
 ---
 
