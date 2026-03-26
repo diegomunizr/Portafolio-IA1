@@ -172,4 +172,4 @@ Forina, M. et al. (1991). *PARVUS: An Extendable Package for Data Exploration, C
 
 ## 🔙 Navegación
 
-- [⬅️ Volver al README del Parcial 2](../README.md)
+- [⬅️ Volver al Parcial 2](../README.md)
