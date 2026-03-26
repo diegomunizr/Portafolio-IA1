@@ -20,8 +20,7 @@ El problema se enmarca como una tarea de **clasificación supervisada**, dado qu
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
 | `P P2 621784.ipynb` | Notebook principal con el análisis completo | [📓 Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/P%20P2%20621784.ipynb?raw=true) |
-| `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [📊 Descargar Dataset](https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/wine_dataset.csv) |
-| `P P2 621784.pdf` | Reporte en PDF del proyecto | [📄 Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/P%20P2%20621784.pdf) |
+| `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | <a href="https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/wine_dataset.csv" download="wine_dataset.csv">📊 Descargar Dataset</a> || `P P2 621784.pdf` | Reporte en PDF del proyecto | [📄 Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/P%20P2%20621784.pdf) |
 
 ---
 
