@@ -26,6 +26,14 @@ Este repositorio contiene las actividades, proyectos y certificados desarrollado
 
 ---
 
+## 📝 Examen Parcial 2
+
+| Carpeta | Descripción |
+|---------|-------------|
+| [Examen Parcial 2](./Examen%20Parcial%202/) | Examen del segundo parcial. [📄 Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/Examen%20Parcial%202/P2%20621784.pdf) |
+
+---
+
 ## 📘 Repaso
 
 | Carpeta | Descripción |
