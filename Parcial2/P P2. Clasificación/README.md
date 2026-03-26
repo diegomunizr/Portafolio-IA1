@@ -17,11 +17,11 @@ El problema se enmarca como una tarea de **clasificación supervisada**, dado qu
 
 ## Archivos del Proyecto
 
-| Archivo | Descripción | Descarga |
-|---------|-------------|----------|
-| `P_P2_621784.ipynb` | Notebook principal con el análisis completo | [⬇ Descargar Notebook](./P_P2_621784.ipynb) |
-| `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [⬇ Descargar Dataset](./wine_dataset.csv) |
-| `P_P2_621784.pdf` | Reporte en PDF del proyecto | [⬇ Descargar PDF](./P_P2_621784.pdf) |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| `P_P2_621784.ipynb` | Notebook principal con el análisis completo | [📓 Descargar Notebook](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/P_P2_621784.ipynb?raw=true) |
+| `wine_dataset.csv` | Dataset de vinos (UCI ML Repository) | [📊 Descargar Dataset](https://github.com/diegomunizr/Portafolio-IA1/blob/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/wine_dataset.csv?raw=true) |
+| `P_P2_621784.pdf` | Reporte en PDF del proyecto | [📄 Ver Reporte en PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial2/P%20P2.%20Clasificaci%C3%B3n/P_P2_621784.pdf) |
 
 ---
 
@@ -172,4 +172,4 @@ Forina, M. et al. (1991). *PARVUS: An Extendable Package for Data Exploration, C
 
 ## 🔙 Navegación
 
-- [⬅️ Volver al Parcial 2](../README.md)
+- [⬅️ Volver al README del Parcial 2](../README.md)
