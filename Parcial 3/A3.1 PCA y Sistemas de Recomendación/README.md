@@ -58,7 +58,7 @@ El desarrollo incluyó análisis de datos, procesamiento de información y aplic
 | `A3.1 621784.ipynb` | Desarrollo completo de la actividad en Jupyter Notebook | [📥 Descargar Notebook](A3.1%20621784.ipynb) |
 | `A3.1 621784.pdf` | Exportación en PDF del notebook | [📥 Descargar PDF](A3.1%20621784.pdf) |
 
-> **Nota:** Todos los documentos se encuentran en la carpeta `Parcial 3/A3.1 PCA y Sistemas de Recomendación`. Si los enlaces no funcionan, por favor verifica la estructura de archivos.
+
 
 ---
 
