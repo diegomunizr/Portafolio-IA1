@@ -303,7 +303,7 @@ El análisis no supervisado sobre 448 muestras STAD identificó 4 subgrupos mole
 
 ---
 
-****## 🖼️ Evidencias
+## 🖼️ Evidencias
 
 | Archivo | Descripción |
 |---------|-------------|
