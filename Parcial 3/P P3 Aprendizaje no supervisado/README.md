@@ -303,11 +303,11 @@ El análisis no supervisado sobre 448 muestras STAD identificó 4 subgrupos mole
 
 ---
 
-## 🖼️ Evidencias
+****## 🖼️ Evidencias
 
 | Archivo | Descripción |
 |---------|-------------|
-| 📓 [Descargar Notebook (.ipynb)](./P3621784.ipynb) | Notebook completo con código, resultados y gráficas |
+| 📓 [Descargar Notebook (.ipynb)]([https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/Parcial%203/P%20P3%20Aprendizaje%20no%20supervisado/P3621784.ipynb](https://raw.githubusercontent.com/diegomunizr/Portafolio-IA1/main/Parcial%203/P%20P3%20Aprendizaje%20no%20supervisado/P3621784.ipynb)) | Notebook completo con código, resultados y gráficas |
 | 📄 [Descargar Reporte PDF](./P3621784.pdf) | Exportación PDF del notebook |
 
 ---
@@ -315,4 +315,5 @@ El análisis no supervisado sobre 448 muestras STAD identificó 4 subgrupos mole
 ## 🔙 Navegación
 
 - [⬅️ Volver a Parcial 3](../)
-- [🏠 Volver al repositorio principal](../../../)
+- [🏠 Volver al repositorio principal](../../../)**
+**
