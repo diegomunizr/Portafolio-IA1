@@ -86,12 +86,12 @@ El desarrollo incluyó:
 
 ---
 
-## 🖼️ Evidencias
+## 📁 Documentos Disponibles
 
-| Archivo | Descripción |
-|---------|-------------|
-| `A3.2 621784.ipynb` | Desarrollo completo de la actividad en Jupyter Notebook |
-| `A3.2 621784.pdf` | Exportación en PDF de la actividad terminada |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| `A3.2 621784.ipynb` | Desarrollo completo de la actividad en Jupyter Notebook | [📓 Ver Notebook](./A3.2%20621784.ipynb) |
+| `A3.2 621784.pdf` | Exportación en PDF del notebook | [📄 Ver PDF](./A3.2%20621784.pdf) |
 
 ---
 
