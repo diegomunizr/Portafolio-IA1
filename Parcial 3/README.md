@@ -2,78 +2,81 @@
 
 ## 📌 Descripción General
 
-Este repositorio contiene las actividades, prácticas, laboratorios, certificados y evaluaciones correspondientes al **Parcial 3**, enfocado en temas de **aprendizaje no supervisado**, **sistemas de recomendación**, **clustering**, **PCA**, **multiple testing** y **aprendizaje por refuerzo**.
+Este repositorio contiene las actividades, prácticas, laboratorios, certificados y evaluaciones correspondientes al **Parcial 3**, enfocado en temas de:
 
-Durante este parcial se trabajó con herramientas de análisis de datos y machine learning utilizando Python, Jupyter Notebook y bibliotecas especializadas para el desarrollo de modelos inteligentes.
+- Aprendizaje no supervisado
+- Clustering
+- PCA (Principal Component Analysis)
+- Sistemas de recomendación
+- Multiple testing
+- Aprendizaje por refuerzo
+- Detección de anomalías
+- Machine Learning
+
+Cada carpeta incluye su propio archivo `README.md` con información detallada sobre la actividad, evidencias y contenidos desarrollados.
 
 ---
 
-# 📂 Contenido del Parcial
+# 📂 Estructura del Parcial
 
 ## 📘 Actividades
 
 ### 📌 A3.1 PCA y Sistemas de Recomendación
-Implementación de técnicas de reducción de dimensionalidad utilizando PCA y desarrollo de sistemas de recomendación mediante filtrado colaborativo y análisis de similitud.
+Implementación de PCA y sistemas de recomendación utilizando técnicas de machine learning.
 
-📁 Contenido:
+➡️ [Ver README](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendación/README.md)
+
+📁 Archivos:
 - `A3.1 621784.ipynb`
 - `A3.1 621784.pdf`
 
 ---
 
 ### 📌 A3.2 Clustering
-Desarrollo e implementación de algoritmos de agrupamiento para análisis de datos y segmentación utilizando técnicas de clustering.
+Desarrollo de algoritmos de agrupamiento y análisis de datos mediante clustering.
 
-📁 Contenido:
-- `README.md`
-
----
-
-### 📌 A3.3 Multiple Testing y Aprendizaje por Refuerzo
-Aplicación de pruebas múltiples y fundamentos de aprendizaje por refuerzo enfocados en toma de decisiones y optimización.
-
-📁 Contenido:
-- `README.md`
+➡️ [Ver README](./A3.2%20Clustering/README.md)
 
 ---
 
-## 🎓 Certificados
+### 📌 A3.3 Multiple testing y aprendizaje por refuerzo
+Aplicación de pruebas múltiples y fundamentos de reinforcement learning.
 
-### 📌 Certificado / Curso 3
-Evidencias y documentación correspondiente al curso:
-
-**Aprendizaje No Supervisado, Recomendadores y Aprendizaje por Refuerzo**
-
-📁 Contenido:
-- `README.md`
-- Evidencias del curso
-- Actividades y laboratorios completados
+➡️ [Ver README](./A3.3%20Multiple%20testing%20y%20aprendizaje%20por%20refuerzo/README.md)
 
 ---
 
-## 📝 Evaluaciones
+# 🎓 Certificados
+
+### 📌 Curso 3 - Aprendizaje No Supervisado, Recomendadores y Aprendizaje por Refuerzo
+
+Incluye evidencias, laboratorios y actividades completadas del curso en Coursera.
+
+➡️ [Ver README](./Certificado/Curso%203/README.md)
+
+---
+
+# 📝 Evaluaciones y Material de Apoyo
 
 ### 📌 Examen Final
 Material y evidencias relacionadas con la evaluación final del parcial.
 
-📁 Contenido:
-- `README.md`
+➡️ [Ver README](./Examen%20Final/README.md)
 
 ---
 
 ### 📌 P P3 Aprendizaje no supervisado
-Práctica y evidencia relacionada con aprendizaje no supervisado.
+Práctica y evidencia sobre aprendizaje no supervisado.
 
-📁 Contenido:
+📁 Archivo:
 - `P3621784.pdf`
 
 ---
 
 ### 📌 Repaso P3
-Material de repaso y preparación para evaluaciones del parcial.
+Material de repaso y preparación para el examen del parcial.
 
-📁 Contenido:
-- `README.md`
+➡️ [Ver README](./Repaso%20P3/README.md)
 
 ---
 
@@ -89,27 +92,13 @@ Material de repaso y preparación para evaluaciones del parcial.
 
 ---
 
-# 🎯 Temas Principales
-
-- Aprendizaje no supervisado
-- Clustering
-- K-means
-- PCA (Principal Component Analysis)
-- Sistemas de recomendación
-- Detección de anomalías
-- Multiple testing
-- Aprendizaje por refuerzo
-- Machine Learning
-
----
-
 # ✅ Estado del Parcial
 
 | Actividad | Estado |
 |---|---|
 | A3.1 PCA y Sistemas de Recomendación | ✅ Completado |
 | A3.2 Clustering | ✅ Completado |
-| A3.3 Multiple Testing y Aprendizaje por Refuerzo | ✅ Completado |
+| A3.3 Multiple testing y aprendizaje por refuerzo | ✅ Completado |
 | Curso 3 | ✅ Completado |
 | Examen Final | ✅ Completado |
 | P P3 Aprendizaje no supervisado | ✅ Completado |
