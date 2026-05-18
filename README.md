@@ -41,7 +41,7 @@ Contiene:
 - Nuevos modelos de IA
 - Evidencias del tercer parcial  
 
-➡️ [Ver Parcial 3](./Parcial3/)
+➡️ [Ver Parcial 3](./Parcial 3/)
 
 ---
 
