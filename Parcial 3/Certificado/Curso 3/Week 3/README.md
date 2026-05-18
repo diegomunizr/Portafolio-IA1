@@ -50,10 +50,11 @@ Vista general
 ---
 
 ### Evidencia 2
-Certificado
+Certificado en PDF
 
-![Evidencia 2](certificado621784.pdf)
+📄 [Descargar certificado](./certificado621784.pdf)
 
+---
 
 ## 🔙 Navegación 
 
