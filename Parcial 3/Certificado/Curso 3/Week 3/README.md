@@ -43,8 +43,8 @@ Al completar esta semana se finalizó el tercer y último curso de la **Especial
 ## 🖼️ Evidencias
 | Archivo | Descripción |
 |---------|-------------|
-| [M3_Calificacion_621784.png](M3_Calificacion_621784.png) | Pantalla de finalización — Especialización Machine Learning completada |
-| [M3_Certificado_621784.pdf](M3_Certificado_621784.pdf) | Certificado oficial de especialización — Diego Emilio Muñiz |
+| [M3_Calificacion_621784.png](evidencia621784.png) | Pantalla de finalización — Especialización Machine Learning completada |
+| [M3_Certificado_621784.pdf](certificado621784.pdf) | Certificado oficial de especialización — Diego Emilio Muñiz |
 
 ---
 
