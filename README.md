@@ -35,6 +35,16 @@ Contiene:
 
 ---
 
+### 📁 Parcial 3
+Contiene:
+- Actividades profesionales
+- Nuevos modelos de IA
+- Evidencias del tercer parcial  
+
+➡️ [Ver Parcial 3](./Parcial3/)
+
+---
+
 ## Objetivo del portafolio
 Mostrar el desarrollo de habilidades en:
 - Análisis de datos  
