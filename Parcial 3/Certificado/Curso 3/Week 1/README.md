@@ -92,4 +92,9 @@ Sección de Detección de anomalías completada.
 ### Evidencia 4
 Laboratorio y cuestionario de detección de anomalías completados.
 
-![Evidencia 4](evidencia4.png)torio principal](../../../../)
+![Evidencia 4](evidencia4.png)
+
+## 🔙 Navegación 
+
+- [⬅️ Volver a Curso 3](../)
+- [🏠 Volver al repositorio principal](../../../../)
