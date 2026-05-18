@@ -68,16 +68,28 @@ Esta semana se enfocó en el estudio del **aprendizaje no supervisado**, especia
 
 ## 🖼️ Evidencias
 
-| Archivo | Descripción |
-|---------|-------------|
-| `evidencia1.png` | Vista general de la Semana 1 completada |
-| `evidencia2.png` | Sección de Agrupamiento y laboratorio K-means completados |
-| `evidencia3.png` | Sección de Detección de anomalías completada |
-| `evidencia4.png` | Laboratorio y cuestionario de detección de anomalías completados |
+### Evidencia 1
+Vista general de la Semana 1 completada.
+
+![Evidencia 1](evidencia1.png)
 
 ---
 
-## 🔙 Navegación
+### Evidencia 2
+Sección de Agrupamiento y laboratorio K-means completados.
 
-- [⬅️ Volver a Curso 3](../)
-- [🏠 Volver al repositorio principal](../../../../)
+![Evidencia 2](evidencia2.png)
+
+---
+
+### Evidencia 3
+Sección de Detección de anomalías completada.
+
+![Evidencia 3](evidencia3.png)
+
+---
+
+### Evidencia 4
+Laboratorio y cuestionario de detección de anomalías completados.
+
+![Evidencia 4](evidencia4.png)torio principal](../../../../)
