@@ -91,12 +91,12 @@ La segunda parte introduce el **aprendizaje por refuerzo** utilizando el entorno
 
 ---
 
-## 🖼️ Evidencias
+## 📁 Documentos Disponibles
 
-| Archivo | Descripción |
-|---------|-------------|
-| `A3.3 621784.ipynb` | Desarrollo completo de la actividad en Jupyter Notebook |
-| `A3.3 621784.pdf` | Exportación en PDF de la actividad terminada |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| `A3.3 621784.ipynb` | Desarrollo completo de la actividad en Jupyter Notebook | [📓 Ver Notebook](./A3.3%20621784.ipynb) |
+| `A3.3 621784.pdf` | Exportación en PDF del notebook | [📄 Ver PDF](./A3.3%20621784.pdf) |
 
 ---
 
