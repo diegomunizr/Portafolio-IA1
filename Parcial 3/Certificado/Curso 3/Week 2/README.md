@@ -85,15 +85,34 @@ Esta semana se enfocó en el estudio de **sistemas de recomendación**, cubriend
 ---
 
 ## 🖼️ Evidencias
-| Archivo | Descripción |
-|---------|-------------|
-| [evidencia1.png](evidencia1.png) | Semana 2: inicio — Sistemas de Recomendación y Filtrado Colaborativo completados |
-| [evidencia2.png](evidencia2.png) | Detalle de la aplicación, Lab 1 y Cuestionario de Implantación completados |
-| [evidencia3.png](evidencia3.png) | Filtrado Basado en el Contenido y Cuestionario Práctico completados |
-| [evidencia4.png](evidencia4.png) | Lab 2 y Análisis de Componentes Principales completados |
+
+### Evidencia 1
+Vista general de la Semana 1 completada.
+
+![Evidencia 1](evidencia1.png) | Semana 2: inicio — Sistemas de Recomendación y Filtrado Colaborativo completados |
 
 ---
 
-## 🔙 Navegación
+### Evidencia 2
+Sección de Agrupamiento y laboratorio K-means completados.
+
+![Evidencia 2](evidencia2.png) | Detalle de la aplicación, Lab 1 y Cuestionario de Implantación completados |
+
+---
+
+### Evidencia 3
+Sección de Detección de anomalías completada.
+
+![Evidencia 3](evidencia3.png) | Filtrado Basado en el Contenido y Cuestionario Práctico completados |
+
+---
+
+### Evidencia 4
+Laboratorio y cuestionario de detección de anomalías completados.
+
+![Evidencia 4](evidencia4.png) | Lab 2 y Análisis de Componentes Principales completados |
+
+## 🔙 Navegación 
+
 - [⬅️ Volver a Curso 3](../)
 - [🏠 Volver al repositorio principal](../../../../)
